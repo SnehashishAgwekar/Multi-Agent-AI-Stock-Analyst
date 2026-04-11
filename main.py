@@ -1,0 +1,13 @@
+from dotenv import load_dotenv
+import os
+from crew import stock_crew
+
+load_dotenv()
+
+def run(stock: str):
+    result = stock_crew.kickoff(inputs={"stock": stock})
+    print(result)
+
+if __name__ == "__main__":
+    stock = input("Enter stock name: ")
+    run(stock)
