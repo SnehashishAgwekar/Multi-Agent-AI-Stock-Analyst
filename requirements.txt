@@ -4,3 +4,4 @@ python-dotenv==1.0.1
 yfinance==0.2.36
 plotly==5.20.0
 groq
+setuptools
