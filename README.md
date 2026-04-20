@@ -1,10 +1,10 @@
-# 📊 Multi-Agent AI Stock Analyst
+# Multi-Agent AI Stock Analyst
 
 An AI-powered multi-agent system that analyzes stocks, compares performance, and generates trading insights using autonomous agents.
 
 ---
 
-## 🚀 Overview
+## Overview
 
 This project implements a **multi-agent architecture** where different AI agents collaborate to simulate real-world financial roles like analysts and traders.
 
@@ -14,7 +14,7 @@ Multi-agent systems are widely used in financial AI to break down complex tasks 
 
 ---
 
-## ✨ Features
+## Features
 
 * 📈 AI-based stock analysis
 * 🔍 Stock comparison between companies
@@ -25,7 +25,7 @@ Multi-agent systems are widely used in financial AI to break down complex tasks 
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 The system is built using a **crew-based agent workflow**:
 
@@ -72,7 +72,7 @@ The system is built using a **crew-based agent workflow**:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * Python
 * Crew-based AI agents
@@ -81,7 +81,7 @@ The system is built using a **crew-based agent workflow**:
 
 ---
 
-## ⚙️ Setup Instructions
+## Setup Instructions
 
 ### 1. Clone the repository
 
@@ -119,7 +119,7 @@ API_KEY=your_api_key_here
 
 ---
 
-## ▶️ Run the Project
+## Run the Project
 
 ```bash
 python main.py
@@ -133,7 +133,7 @@ python app.py
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 1. User inputs a stock query
 2. Analyst agent processes and analyzes data
@@ -151,29 +151,29 @@ python app.py
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 This project is for **educational purposes only**.
 It does not provide financial advice.
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
-* 🌐 Frontend dashboard (React)
-* 📡 Real-time stock data integration
-* 📊 Portfolio tracking
-* ☁️ Deployment (AWS / Render / Vercel)
+*  Frontend dashboard (React)
+*  Real-time stock data integration
+*  Portfolio tracking
+*  Deployment (AWS / Render / Vercel)
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Snehashish Agwekar**
 
 ---
 
-## ⭐ Support
+##  Support
 
 If you found this project useful, consider giving it a ⭐ on GitHub!
 
